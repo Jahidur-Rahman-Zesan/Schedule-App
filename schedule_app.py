@@ -18,8 +18,8 @@ SCHEDULE_FILE = "schedule_tasks.csv"
 VERIFICATION_CODE_FILE = "verification_codes.csv"
 
 # Email configuration for the app's email
-APP_EMAIL = "todolistappwithdailyschedule@gmail.com"  # Use your app-specific email here
-APP_PASSWORD = "tzwymwnldadxuycp"  # Use your app-specific password here (App Password for Gmail)
+APP_EMAIL = "xyz@email.com"  # Use your app-specific email here
+APP_PASSWORD = "xyz"  # Use your app-specific password here (App Password for Gmail)
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
@@ -555,3 +555,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
